@@ -1,4 +1,4 @@
-<site-list version="9">
+<site-list version="10">
   <created-by>
     <tool>EMIESiteListManager</tool>
     <version>12.0.0.0</version>
@@ -12,7 +12,7 @@
     <compat-mode>IE11</compat-mode>
     <open-in>IE11</open-in>
   </site>
-  <site url="hotmail.com">
+  <site url="yahoo.com">
     <compat-mode>IE11</compat-mode>
     <open-in>IE11</open-in>
   </site>
