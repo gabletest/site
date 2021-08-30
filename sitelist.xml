@@ -16,4 +16,8 @@
     <compat-mode>IE11</compat-mode>
     <open-in>IE11</open-in>
   </site>
+    <site url="bbc.com">
+    <compat-mode>IE11</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
 </site-list>
