@@ -1,0 +1,19 @@
+<site-list version="9">
+  <created-by>
+    <tool>EMIESiteListManager</tool>
+    <version>12.0.0.0</version>
+    <date-created>08/21/2021 17:24:00</date-created>
+  </created-by>
+  <site url="taara.it.baac.or.th">
+    <compat-mode>IE11</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="google.com">
+    <compat-mode>IE11</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+  <site url="hotmail.com">
+    <compat-mode>IE11</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+</site-list>
